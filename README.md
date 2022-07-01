@@ -10,6 +10,10 @@ Required packages are in requirements.txt. You can install packages as follows:
 pip install -r requirements.txt
 ```
 
+## Data
+
+Our dataset can be downloaded by this [link](https://drive.google.com/file/d/1rzIecFRwNQuc6nzVD8IyVLUlT-Obxjgc/view?usp=sharing). Place it in the same directory as counterfactual_inference.
+
 ## Usage
 
 You can run the bash scripts in the directory (run) to train and test models (MAC/bert) on Snopes (sens) or PolitiFact (pomt) Dataset. 
