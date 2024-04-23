@@ -38,6 +38,6 @@ Please cite our paper if you use the code:
 }
 ```
 
-### Acknowledge
+## Acknowledge
 
 We refer to the work and code of [fake news reasoning](https://github.com/casperhansen/fake-news-reasoning). We sincerely thank them for their great contribution to the research community of fake news detection.
